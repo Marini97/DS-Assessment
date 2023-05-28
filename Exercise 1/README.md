@@ -18,6 +18,6 @@ Your solution should address **at least** the following steps:
 
 ## Solution
 
-The implementation of the solution is in the file `bank_churn.ipynb`. The file is a Python Notebook, so it can be opened with Jupyter Notebook or Jupyter Lab. The file contains the code and the comments to the code.
+The implementation of the solution is in the file `bank_churn.ipynb`. The file is a Python Notebook, so it can be opened with Jupyter Notebook or Jupyter Lab. The file contains the code and the comments to the code. 
 
 
